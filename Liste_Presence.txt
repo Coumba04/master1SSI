@@ -1,3 +1,4 @@
 Ceci est la nouvelle liste de presence.
 Nous ajoutons une premiere ligne
 Nous ajoutons une deuxieme ligne
+Nous ajoutons une troisieme ligne
